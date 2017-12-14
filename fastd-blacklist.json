@@ -2,8 +2,8 @@
   "peers":
   [
     {
-      "pubkey": "1234567890123456789012345678901234567890123456789012345678901234",
-      "comment": "Example"
+      "pubkey": "1e94d89de844307c6d4c12852b9ed3de018412cd79edb82c4072156e1c872460",
+      "comment": "Loop, BATMAN-MAC: ca:88:20:38:43:5b ,FASTD-MAC: ca:88:20:38:43:5f"
     }
   ]
 }
